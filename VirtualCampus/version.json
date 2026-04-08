@@ -1,0 +1,9 @@
+{
+  "latestVersion": "0.2.0",
+  "releaseNotes": "v0.2.0 リリース (Cluster方式 手動テスト用)",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/kawaiikuo/Test_1/releases/download/virtualcampus-v0.2.0/VirtualCampus-0.2.0-setup.exe"
+    }
+  }
+}
